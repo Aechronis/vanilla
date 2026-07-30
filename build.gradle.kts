@@ -22,7 +22,7 @@ repositories {
 }
 
 dependencies {
-    api("net.minestom:minestom:2026.07.12-26.2")
+    api("net.minestom:minestom:2026.07.22-26.2")
     api("com.google.code.gson:gson:2.14.0")
     compileOnly("net.aechronis:utils:86a747b")
 
